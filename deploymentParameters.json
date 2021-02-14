@@ -5,7 +5,7 @@
     "adminUsername": {
       "value": "randadmin123"
     },
-    "adminPasswordOrKey": {
+    "adminPassword": {
       "value": "RandAdmin12345"
     }
   }
